@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lisalbi
 - 👀 I’m interested in everything web development
-- 🌱 I’m currently working my way through (The Odin Project)[https://www.theodinproject.com/dashboard].
+- 🌱 I’m currently working my way through [The Odin Project](https://www.theodinproject.com/dashboard).
 - 💞️ I’m looking to collaborate on creating websites
 - 📫 How to reach me: Email me at Lisabi685@gmail.com
 
