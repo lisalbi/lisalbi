@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lisalbi
+- 👋 Hi, I’m @lisalbi. I'm a junior web developer and designer.
 - 👀 I’m interested in everything web development
 - 🌱 I’m currently working my way through [The Odin Project](https://www.theodinproject.com/dashboard).
-- 💞️ I’m looking to collaborate on creating websites
+- 💞️ I’m looking for roles in web development. Bonus if they combine development and design!
 - 📫 How to reach me: Email me at Lisabi685@gmail.com
 
 <!---
