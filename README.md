@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lisalbi
-- 👀 I’m interested in everything web development
-- 🌱 I’m currently working my way through [The Odin Project](https://www.theodinproject.com/dashboard).
-- 💞️ I’m looking for front-end roles in web development.
+- 👀 I’m interested in everything web development and design.
+- 🌱 I’m currently working as a Junior Web Developer at EverWash, where I'm performing an overhaul of the [main website](https://www.everwash.com/).
 - 📫 How to reach me: Email me at lisabi685@gmail.com
 - ✨ I'm also into design. Checkout my work [here](https://www.lisabi.me/)!
 
